@@ -1,2 +1,4 @@
-This is my first guided project realized with the help of Analyst Builder by Alex The Analyst.
-In this project I created a measure converter for inches, feet and yards.
+These are my "Guided Projects" realized with the help of Analyst Builder by Alex The Analyst.
+
+Project 1: Unit Measure Converter
+Project 2: Calculator
